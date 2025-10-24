@@ -15,7 +15,8 @@ An intelligent travel planning application that generates personalized day-by-da
 
 
 ### Generated Itinerary with Weather
-![Uploading Screenshot 2025-10-24 082337.png…]()
+<img width="1900" height="862" alt="Screenshot 2025-10-24 082337" src="https://github.com/user-attachments/assets/e9305cc6-16f9-41a1-9d4e-0b0af465bdac" />
+
 
 
 ---
@@ -85,8 +86,8 @@ You'll also need API keys for:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-travel-planner.git
-cd ai-travel-planner
+git clone https://github.com/vai-sys/AIGuide.git
+cd AIGuide
 ```
 
 ### 2. Backend Setup
